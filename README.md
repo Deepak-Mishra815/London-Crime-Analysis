@@ -38,7 +38,7 @@ The dataset provides a detailed record of various crime categories in different 
    ![Dataset created](8.London%20Crime%20Analysis%20dataset%20created%20london%20crime.jpg)
 8. **Insert Data from Public Dataset:**
    - Inserted data from the public dataset.
-   ![Insert data from public dataset](9.London%20Crime%20Analysis%20insert%20data%20from%20public%20dataset.jpg)
+   ![Insert data from public dataset](9.London%20Crime%20Analysis%20insert%20data%20from%20public%20dataset..jpg)
 9. **Query to Calculate Category-wise Result:**
    - Wrote a query to calculate category-wise crimes.
    ![Query to calculate category-wise result](10.London%20Crime%20Analysis%20query%20to%20calculate%20categorywise%20result%20SS.jpg)
