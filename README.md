@@ -29,7 +29,7 @@ The dataset provides a detailed record of various crime categories in different 
    ![Explored the schema tab](5.London%20Crime%20Analysis%20explored%20the%20schema%20tab.jpg)
 5. **Create a Bucket:**
    - Created a bucket to save the data for future use.
-   ![Create a bucket](6.London%20Crime%20Analysis%20create%20a%20bucket%20to%20save%20the%20data%20for%20future%20use.jpg)
+   ![Create a bucket](6.London%20Crime%20Analysis%20create%20a%20bucket%20to%20save%20the%20data%20for%20future%20use..jpg)
 6. **Create Dataset:**
    - Created a dataset.
    ![Create dataset](7.London%20Crime%20Analysis%20create%20dataset.jpg)
