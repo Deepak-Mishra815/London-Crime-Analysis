@@ -75,4 +75,26 @@ The dataset provides a detailed record of various crime categories in different 
 ## Conclusion
 This analysis of London crime data provides valuable insights into crime trends, hotspots, and changes over time. It can serve as a resource for further research, policy-making, and community awareness.
 
+Raw Data
+
+The raw data for this project is now available directly in the repository. You can find it at the following path:
+
+london_crime_raw_data_spreadsheet.csv
+
+This file contains the original data used for analysis, including the following columns:
+
+lsoa_code: Lower Super Output Area code
+
+borough: Name of the London borough
+
+major_category: Major category of the crime
+
+minor_category: Minor category of the crime
+
+value: Number of crimes
+
+year: Year of the crime
+
+month: Month of the crime
+
 Feel free to explore the dataset and replicate this analysis to gain deeper insights into crime patterns in London.
